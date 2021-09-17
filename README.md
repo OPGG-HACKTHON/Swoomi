@@ -3,9 +3,9 @@
 # SWOOMI 소개
 
 ## 코드
-> [프론트](https://github.com/OPGG-HACKTHON/web-c-client).
-> [서버](https://github.com/OPGG-HACKTHON/web-team-c-backend).
-> [크롤러](https://github.com/OPGG-HACKTHON/web-c-crawler).
+- [프론트](https://github.com/OPGG-HACKTHON/web-c-client).
+- [서버](https://github.com/OPGG-HACKTHON/web-team-c-backend).
+- [크롤러](https://github.com/OPGG-HACKTHON/web-c-crawler).
 
 ## 목표
 
