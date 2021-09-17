@@ -40,11 +40,11 @@
 - **클릭**
     1. **원터치로 스펠을 간편하게 체크할 수 있습니다.**
 
-    ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled.png)
+    ![Untitled](https://i.imgur.com/ybgumc9.png)
 
     1. **잘못 클릭하는 경우를 대비하여, 스펠 체크 후 특정 시간이 흐르면 스펠 체크 박스가 잠금상태로 변합니다.**
 
-    ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%201.png)
+    ![Untitled](https://i.imgur.com/mioUODg.png)
 
     1. **스펠 사용 후 시간이 흐른 뒤에도 정확히 체크할 수 있도록 세부적인 시간 조정 기능을 제공합니다.**
 
@@ -61,7 +61,7 @@
 
     → 롤에서의 궁, 스펠 표시와 같은 방식으로 제공하여, 직관적입니다.
 
-    ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%202.png)
+    ![Untitled](https://i.imgur.com/TE9rBrA.png)
 
 - 1**0초 전, On 두가지 경우에 음성으로 스펠 상태를 안내합니다.**
 
@@ -77,16 +77,16 @@
 - **아이템**
     1. **챔피언, 라인별로 자주가는 아이템을 제공하여 빠르게 구매 아이템을 클릭할 수 있습니다.**
 
-    ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%203.png)
+    ![Untitled](https://i.imgur.com/11ay8Mv.png)
 
     b. **남들과 다른 힙한 상대팀을 대비하여, 전체 아이템 검색을 통해 구매 아이템 추가가 가능합니다.**
 
-    ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%204.png)
+    ![Untitled](https://i.imgur.com/bchf3Tw.png)
 
 - **바람용**
     1. **Up, Down 버튼을 통해 상대팀이 먹은 바람용 개수를 0 - 4까지 지정할 수 있습니다.**
 
-    ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%205.png)
+    ![Untitled](https://i.imgur.com/kGzT2D5.png)
 
 위에서 모은 정보를 토대로 정확한 스킬 쿨타임을 계산하여 제공합니다.
 
@@ -105,21 +105,21 @@
     - 게임 중이지 않으면 대기 페이지로 이동합니다.
     - 게임 중이면 게임방 페이지로 이동합니다.
 
-        ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%206.png)
+        ![Untitled](https://i.imgur.com/84XPmRY.png)
 
 1. **대기 페이지**
     - 공유하기로 팀원에게 링크를 제공할 수 있습니다.
     - 링크를 받은 팀원은 링크를 통해 공유 페이지로 이동합니다.
     - 대기 중, 게임이 시작하면 게임 페이지로 자동으로 이동합니다.
 
-        ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%207.png)
+        ![Untitled](https://i.imgur.com/ke1YGKz.png)
 
 1. **공유 페이지** 
     - PC와 Mobile 중 하나를 선택하여 스우미를 이용할 수 있습니다.
     - PC를 선택한 경우 바로 웹 페이지로 이동합니다.
     - Mobile을 선택한 경우 QR코드를 통해 모바일에서 웹 페이지로 이동합니다.
 
-        ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%208.png)
+        ![Untitled](https://i.imgur.com/E6tR21M.png)
 
 1. **게임방 페이지**
     - 상대팀의 룬, 아이템, 바람용 수를 고려하여 `정확한` 스펠 쿨타임을 제공합니다.
@@ -135,7 +135,7 @@
     - 컨셉이 짙은 힙한 상대팀을 대비하여, 스우미가 추천하는 아이템에 상대팀이 구매한 아이템이 없더라도 검색을 통해 구매할 수 있습니다.
     - 화면이 꺼져 게임에 방해되지 않도록 PC, Mobile 모두 AOD(Always On Display)를 지원합니다.
 
-        ![Untitled](SWOOMI%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%208e8d5b6d95ca4a09ae48ccc7417466f6/Untitled%209.png)
+        ![Untitled](https://i.imgur.com/0GXuNn0.png)
 
 ## **개발 예정 기능**
 
