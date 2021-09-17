@@ -2,6 +2,11 @@
 
 # SWOOMI 소개
 
+## 코드
+> [프론트](https://github.com/OPGG-HACKTHON/web-c-client).
+> [서버](https://github.com/OPGG-HACKTHON/web-team-c-backend).
+> [크롤러](https://github.com/OPGG-HACKTHON/web-c-crawler).
+
 ## 목표
 
 > `편리`하게, `정확한` 스펠체크로 `티어 상승`에 기여한다!
