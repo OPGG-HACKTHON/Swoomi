@@ -2,6 +2,8 @@
 
 # SWOOMI 소개
 
+:link: [스우미](https://swoomi.me/)
+
 ## 코드
 - [프론트](https://github.com/OPGG-HACKTHON/web-c-client).
 - [서버](https://github.com/OPGG-HACKTHON/web-team-c-backend).
